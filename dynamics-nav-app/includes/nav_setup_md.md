@@ -1,0 +1,1 @@
+Configuration de Microsoft Dynamics NAV 2017
