@@ -1,1 +1,1 @@
-CRONUS Canada, Inc. base de données de démonstration
+<span data-ttu-id="07ba2-101">CRONUS Canada, Inc.</span><span class="sxs-lookup"><span data-stu-id="07ba2-101">CRONUS International Ltd.</span></span> <span data-ttu-id="07ba2-102">base de données de démonstration</span><span class="sxs-lookup"><span data-stu-id="07ba2-102">demonstration database</span></span>

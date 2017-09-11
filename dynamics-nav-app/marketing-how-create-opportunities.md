@@ -9,38 +9,38 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f7105692b20eb3d6ae2a493f192000d9561c2be4
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 5217d19534706160a74de7ade2fa4af556277de5
 ms.contentlocale: fr-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="how-to-create-sales-opportunities"></a>Procédure : créer des opportunités de vente
-Vous pouvez créer des opportunités pour les opportunités de vente à partir de vos contacts. Toutes les opportunités doivent être affectées à un représentant ou un acheteur et doivent avoir un contact.
+# <a name="how-to-create-sales-opportunities"></a><span data-ttu-id="4218a-102">Procédure : créer des opportunités de vente</span><span class="sxs-lookup"><span data-stu-id="4218a-102">How to: Create Sales Opportunities</span></span>
+<span data-ttu-id="4218a-103">Vous pouvez créer des opportunités pour les opportunités de vente à partir de vos contacts.</span><span class="sxs-lookup"><span data-stu-id="4218a-103">You can create opportunities for the sales opportunities you have on your contacts.</span></span> <span data-ttu-id="4218a-104">Toutes les opportunités doivent être affectées à un représentant ou un acheteur et doivent avoir un contact.</span><span class="sxs-lookup"><span data-stu-id="4218a-104">All opportunities must be assigned to a salesperson or purchaser and must have a contact.</span></span>
 
-Utilisez la fenêtre **Liste des opportunités** pour créer des opportunités. Généralement, vous créerez plutôt des opportunités à partir du contact ou des représentants spécifiques.
+<span data-ttu-id="4218a-105">Utilisez la fenêtre **Liste des opportunités** pour créer des opportunités.</span><span class="sxs-lookup"><span data-stu-id="4218a-105">You can create opportunities from the **Opportunity List** window.</span></span> <span data-ttu-id="4218a-106">Généralement, vous créerez plutôt des opportunités à partir du contact ou des représentants spécifiques.</span><span class="sxs-lookup"><span data-stu-id="4218a-106">But you typically will create opportunities from the specific contact or salespeople.</span></span>
 
-Pour pouvoir créer des opportunités, vous devez configurer les cycles de vente opportunité. Pour plus d'informations reportez-vous à [Procédure : configurer des cycles et des étapes de vente opportunité](marketing-how-setup-opportunity-sales-cycles-stages.md).
+<span data-ttu-id="4218a-107">Pour pouvoir créer des opportunités, vous devez configurer les cycles de vente opportunité.</span><span class="sxs-lookup"><span data-stu-id="4218a-107">Before you can create opportunities, you must set up opportunity sales cycles.</span></span> <span data-ttu-id="4218a-108">Pour plus d'informations reportez-vous à [Procédure : configurer des cycles et des étapes de vente opportunité](marketing-how-setup-opportunity-sales-cycles-stages.md).</span><span class="sxs-lookup"><span data-stu-id="4218a-108">For more information see [How to: Set Up Opportunity Sales Cycles and Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).</span></span>
 
-## <a name="to-create-an-opportunity-from-a-salesperson"></a>Pour créer une opportunité à partir d'un représentant
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Vendeurs**, puis sélectionnez le lien connexe.
-2. Sélectionnez dans la liste le représentant pour lequel vous souhaitez créer une opportunité.
-3. Sélectionnez l'action **Opportunités**, puis sélectionnez **Liste**.
-4. Sélectionnez **Nouveau**, puis renseignez les champs appropriés.  
+## <a name="to-create-an-opportunity-from-a-salesperson"></a><span data-ttu-id="4218a-109">Pour créer une opportunité à partir d'un représentant</span><span class="sxs-lookup"><span data-stu-id="4218a-109">To create an opportunity from a salesperson</span></span>
+1. <span data-ttu-id="4218a-110">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Vendeurs**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="4218a-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span></span>
+2. <span data-ttu-id="4218a-111">Sélectionnez dans la liste le représentant pour lequel vous souhaitez créer une opportunité.</span><span class="sxs-lookup"><span data-stu-id="4218a-111">Select the salesperson from the list for whom you want to create an opportunity.</span></span>
+3. <span data-ttu-id="4218a-112">Sélectionnez l'action **Opportunités**, puis sélectionnez **Liste**.</span><span class="sxs-lookup"><span data-stu-id="4218a-112">Choose the **Opportunities** action, and then choose **List**.</span></span>
+4. <span data-ttu-id="4218a-113">Sélectionnez **Nouveau**, puis renseignez les champs appropriés.</span><span class="sxs-lookup"><span data-stu-id="4218a-113">Choose **New**, and then fill in the relevant fields.</span></span>  
 
 <!-- taken out for OPS -->
 <!-- [AZURE.INCLUDE [tooltip-note](../includes/tooltip-note.md)] -->
 
-## <a name="to-create-an-opportunity-from-a-contact"></a>Pour créer une opportunité à partir d'un contact
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Contacts**, puis sélectionnez le lien connexe.
-2. Sélectionnez dans la liste le contact pour lequel vous souhaitez créer une opportunité.
-3. Exécutez l'une des opérations suivantes :
-  * Choisissez l'action **Créer opportunité**.
-  * Sélectionnez l'action **Opportunités**, puis sélectionnez **Nouveau**.
-4. Renseignez les champs de votre choix.
+## <a name="to-create-an-opportunity-from-a-contact"></a><span data-ttu-id="4218a-114">Pour créer une opportunité à partir d'un contact</span><span class="sxs-lookup"><span data-stu-id="4218a-114">To create an opportunity from a contact</span></span>
+1. <span data-ttu-id="4218a-115">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Contacts**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="4218a-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Contacts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="4218a-116">Sélectionnez dans la liste le contact pour lequel vous souhaitez créer une opportunité.</span><span class="sxs-lookup"><span data-stu-id="4218a-116">Select the contact from the list for whom you want to create an opportunity.</span></span>
+3. <span data-ttu-id="4218a-117">Exécutez l'une des opérations suivantes :</span><span class="sxs-lookup"><span data-stu-id="4218a-117">Do one of the following:</span></span>
+  * <span data-ttu-id="4218a-118">Choisissez l'action **Créer opportunité**.</span><span class="sxs-lookup"><span data-stu-id="4218a-118">Choose the **Create Opportunity** action.</span></span>
+  * <span data-ttu-id="4218a-119">Sélectionnez l'action **Opportunités**, puis sélectionnez **Nouveau**.</span><span class="sxs-lookup"><span data-stu-id="4218a-119">Choose the  **Opportunities** action, and then choose **New**.</span></span>
+4. <span data-ttu-id="4218a-120">Renseignez les champs de votre choix.</span><span class="sxs-lookup"><span data-stu-id="4218a-120">Fill in the relevant fields.</span></span>
 
-##<a name="see-also"></a>Voir aussi  
-[Gestion des ventes](sales-manage-sales.md)  
-[Création et gestion de contacts](marketing-contacts.md)  
-[Utiliser Dynamics NAV](ui-work-product.md)
+##<a name="see-also"></a><span data-ttu-id="4218a-121">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="4218a-121">See Also</span></span>  
+[<span data-ttu-id="4218a-122">Gestion des ventes</span><span class="sxs-lookup"><span data-stu-id="4218a-122">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="4218a-123">Création et gestion de contacts</span><span class="sxs-lookup"><span data-stu-id="4218a-123">Create and Manage Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="4218a-124">Utiliser Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="4218a-124">Work with Dynamics NAV</span></span>](ui-work-product.md)
 
