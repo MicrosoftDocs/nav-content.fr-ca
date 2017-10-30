@@ -1,35 +1,37 @@
 ---
-title: "Procédure : spécifier des périodes de report"
+title: "Spécifier des périodes de report"
+description: "Vous spécifiez des dates début et fin de report pour configurer quand les utilisateurs peuvent reporter dans le grand livre."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+manager: edupont
+editor: 
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a332fa1e463b0c5c44c256d5d57803d6d1f48fe
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: user setup
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f5b0f52ecf52329471f33a7533165cb86a54267f
 ms.contentlocale: fr-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-specify-posting-periods"></a><span data-ttu-id="a243c-103">Procédure : spécifier des périodes de report</span><span class="sxs-lookup"><span data-stu-id="a243c-103">How to: Specify Posting Periods</span></span>
+<span data-ttu-id="a243c-104">Utilisez des périodes de report pour spécifier quand les utilisateurs peuvent reporter dans le grand livre.</span><span class="sxs-lookup"><span data-stu-id="a243c-104">Use posting periods to specify when users can post to the general ledger.</span></span>  
 
-# <a name="how-to-specify-posting-periods"></a><span data-ttu-id="9edbf-102">Procédure : spécifier des périodes de report</span><span class="sxs-lookup"><span data-stu-id="9edbf-102">How to: Specify Posting Periods</span></span>
-<span data-ttu-id="9edbf-103">En définissant des périodes de report, vous limitez la période durant laquelle le report est autorisé.</span><span class="sxs-lookup"><span data-stu-id="9edbf-103">When you specify posting periods, you limit the period in which posting is allowed.</span></span>
+## <a name="to-specify-posting-periods"></a><span data-ttu-id="a243c-105">Pour définir des périodes de report</span><span class="sxs-lookup"><span data-stu-id="a243c-105">To specify posting periods</span></span>
+1. <span data-ttu-id="a243c-106">Choisissez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Paramètres comptabilité**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="a243c-106">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="a243c-107">Dans la fenêtre **Paramètres comptabilité**, définissez la période en entrant des dates dans les champs **Début période validation** et **Fin période validation**.</span><span class="sxs-lookup"><span data-stu-id="a243c-107">In the **General Ledger Setup** window, define the period by entering dates in the **Allow Posting From** and **Allow Posting To** fields.</span></span>  
 
-## <a name="to-specify-posting-periods"></a><span data-ttu-id="9edbf-104">Pour définir des périodes de report</span><span class="sxs-lookup"><span data-stu-id="9edbf-104">To specify posting periods</span></span>
-1. <span data-ttu-id="9edbf-105">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Paramètres comptabilité**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="9edbf-105">In the top right corner, choose the **Search for Page or Report** icon, enter **General Ledger Setup**, and then choose the related link.</span></span>
-2. <span data-ttu-id="9edbf-106">Dans la fenêtre **Paramètres comptabilité**, saisissez une date dans le champ **Début période validation** pour spécifier le début de la période.</span><span class="sxs-lookup"><span data-stu-id="9edbf-106">In the **General Ledger Setup** window, enter a date in the **Allow Posting From** field to specify the beginning of the period.</span></span>
-3. <span data-ttu-id="9edbf-107">Saisissez une date dans le champ **Fin période validation** afin de spécifier la fin de la période.</span><span class="sxs-lookup"><span data-stu-id="9edbf-107">Enter a date in the **Allow Posting To** field to specify the end of the period.</span></span>
+> [!NOTE]  
+>   <span data-ttu-id="a243c-108">Ces périodes de report s'appliquent à la compagnie et à tous les utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="a243c-108">These posting periods apply to the company and to all users.</span></span> <span data-ttu-id="a243c-109">Pour autoriser des exceptions, vous pouvez définir différentes périodes de validation pour des utilisateurs spécifiques dans la fenêtre **Paramètres utilisateur**.</span><span class="sxs-lookup"><span data-stu-id="a243c-109">To allow for exceptions, you can define different posting periods for specific users in the **User Setup** window.</span></span> <span data-ttu-id="a243c-110">Ces périodes de validation sont prioritaires sur celles spécifiées dans la fenêtre **Paramètres comptabilité**.</span><span class="sxs-lookup"><span data-stu-id="a243c-110">These posting periods overrule those specified in the **General Ledger Setup** window.</span></span> <span data-ttu-id="a243c-111">Pour plus d'informations, voir la section « Pour configurer des contraintes de temps utilisateur » dans [Procédure : Gérer les utilisateurs et les autorisations](ui-how-users-permissions.md).</span><span class="sxs-lookup"><span data-stu-id="a243c-111">For more information, see the "To set up user time constraints" section in [How to: Manage Users and Permissions](ui-how-users-permissions.md).</span></span>
 
-<span data-ttu-id="9edbf-108">Les dates définies ici s'appliquent à la compagnie et à tous les utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="9edbf-108">The dates that you define here apply to the company and to all users.</span></span>
-
-<span data-ttu-id="9edbf-109">**Remarque** : pour définir une période de validation par utilisateur, accédez à la fenêtre **Paramètres utilisateur**.</span><span class="sxs-lookup"><span data-stu-id="9edbf-109">**Note**: If you want to define different posting periods for different users, you can set them up for each user in the **User Setup** window.</span></span> <span data-ttu-id="9edbf-110">Si vous entrez des dates dans la fenêtre **Paramètres utilisateur**, les dates entrées dans la fenêtre **Paramètres comptabilité** ne s'appliquent pas à ces utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="9edbf-110">If you enter dates in the **User Setup** window, the dates entered in the **General Ledger Setup** window will not apply to these users.</span></span>
-
-
-## <a name="see-also"></a><span data-ttu-id="9edbf-111">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="9edbf-111">See Also</span></span>
-[<span data-ttu-id="9edbf-112">Finance</span><span class="sxs-lookup"><span data-stu-id="9edbf-112">Finance</span></span>](finance-setup.md)  
-[<span data-ttu-id="9edbf-113">Exécution des processus de clôture d'exercice</span><span class="sxs-lookup"><span data-stu-id="9edbf-113">Completing Period-End Processes</span></span>](year-how-complete-period-end-processes.md)
+## <a name="see-also"></a><span data-ttu-id="a243c-112">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="a243c-112">See Also</span></span>
+[<span data-ttu-id="a243c-113">Finances</span><span class="sxs-lookup"><span data-stu-id="a243c-113">Finance</span></span>](finance.md)  
+[<span data-ttu-id="a243c-114">Exécution des processus de clôture d'exercice</span><span class="sxs-lookup"><span data-stu-id="a243c-114">Completing Period-End Processes</span></span>](year-how-complete-period-end-processes.md)  
+<span data-ttu-id="a243c-115">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="a243c-115">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

@@ -1,40 +1,51 @@
 ---
-title: "Spécifier la sélection de l'imprimante pour les états"
+title: "Configuration de rapports à imprimer sur des imprimantes spécifiques"
+description: "En savoir plus sur la configuration d'une imprimante pour un rapport et l'utilisation de la fenêtre Sélections d'imprimantes."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 56a5c1428651162293e56d71e2369fe55d291594
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: fr-ca
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
-# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="6bf32-102">Spécifier la sélection de l'imprimante pour les états</span><span class="sxs-lookup"><span data-stu-id="6bf32-102">Specify Printer Selection for Reports</span></span>
-<span data-ttu-id="6bf32-103">Vous pouvez configurer les états de sorte qu'ils soient imprimés sur une imprimante spécifique.</span><span class="sxs-lookup"><span data-stu-id="6bf32-103">You can set up reports so that they must be printed on a specific printer.</span></span> <span data-ttu-id="6bf32-104">Voici quelques exemples de sélections d'imprimante :</span><span class="sxs-lookup"><span data-stu-id="6bf32-104">The following are some uses of printer selection:</span></span> 
+# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="32a0c-103">Spécifier la sélection de l'imprimante pour les états</span><span class="sxs-lookup"><span data-stu-id="32a0c-103">Specify Printer Selection for Reports</span></span>
+<span data-ttu-id="32a0c-104">Cette page est vide car vous ne pouvez pas encore configurer d'imprimantes spécifiques pour des états spécifiques.</span><span class="sxs-lookup"><span data-stu-id="32a0c-104">This page is empty because you cannot yet set up specific printers for specific reports.</span></span> <span data-ttu-id="32a0c-105">Nous essayons de résoudre ce problème.</span><span class="sxs-lookup"><span data-stu-id="32a0c-105">We are working on solving this.</span></span>
 
-- <span data-ttu-id="6bf32-105">Vous pouvez imprimer des rapports sur un en-tête spécial de la compagnie.</span><span class="sxs-lookup"><span data-stu-id="6bf32-105">You can print reports on special company letterhead.</span></span>
-- <span data-ttu-id="6bf32-106">Vous pouvez imprimer des états sur des formats de papier différents.</span><span class="sxs-lookup"><span data-stu-id="6bf32-106">You can print reports on different paper sizes.</span></span>
-- <span data-ttu-id="6bf32-107">Vous pouvez imprimer des états sur l'imprimante par défaut d'un employé spécifié.</span><span class="sxs-lookup"><span data-stu-id="6bf32-107">You can print reports on the default printer of a specified employee.</span></span>
+<span data-ttu-id="32a0c-106">En attendant, si vous souhaitez imprimer un rapport, vous devez d'abord le télécharger en tant document PDF en choisissant le bouton **Envoyer à**.</span><span class="sxs-lookup"><span data-stu-id="32a0c-106">In the meantime, when you want to print a report, you have to download the report as a PDF document first by choosing the **Send to** button.</span></span> <span data-ttu-id="32a0c-107">Puis, vous devez sélectionner le type d'état pour télécharger le fichier et choisir **Document PDF**.</span><span class="sxs-lookup"><span data-stu-id="32a0c-107">Then you select the type of file to download the report as, and here you should pick **PDF Document**.</span></span> <span data-ttu-id="32a0c-108">À présent, vous pouvez soit ouvrir le document directement en PDF et l'imprimer, ou l'enregistrer et l'imprimer plus tard.</span><span class="sxs-lookup"><span data-stu-id="32a0c-108">Now, you can either open the PDF document right-away and print it, or save it and print it later.</span></span>
 
-<span data-ttu-id="6bf32-108">La fenêtre **Sélections d'imprimantes** pour définir différentes valeurs afin d'obtenir des sorties différentes.</span><span class="sxs-lookup"><span data-stu-id="6bf32-108">You use the **Printer Selections** window to set different values to obtain different output.</span></span> <span data-ttu-id="6bf32-109">Si vous configurez une sélection d'imprimante spécifique, cette sélection a priorité sur une sélection d'imprimante plus générale.</span><span class="sxs-lookup"><span data-stu-id="6bf32-109">If you set a specific printer selection, then it takes precedence over a more general printer selection.</span></span> <span data-ttu-id="6bf32-110">Par exemple, vous pouvez configurer une sélection d'imprimante en entrant une valeur dans les champs **ID utilisateur**, **ID état** et **Nom de l'imprimante**.</span><span class="sxs-lookup"><span data-stu-id="6bf32-110">For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields.</span></span> <span data-ttu-id="6bf32-111">Cette sélection d'imprimante a priorité sur une sélection d'imprimante dont les champs **ID utilisateur** ou **ID état** sont vides.</span><span class="sxs-lookup"><span data-stu-id="6bf32-111">This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.</span></span> 
+<!--
 
-<span data-ttu-id="6bf32-112">Le tableau suivant décrit les combinaisons de valeurs à spécifier lors de la configuration de sélections d'imprimante pour un rapport.</span><span class="sxs-lookup"><span data-stu-id="6bf32-112">The following table describes the combination of values to specify when you set up printer selections for a report.</span></span>
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|<span data-ttu-id="6bf32-113">À</span><span class="sxs-lookup"><span data-stu-id="6bf32-113">To</span></span>                                                 |<span data-ttu-id="6bf32-114">Configurez les valeurs suivantes</span><span class="sxs-lookup"><span data-stu-id="6bf32-114">Set the following values</span></span>                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|<span data-ttu-id="6bf32-115">Imprimer un rapport sur une imprimante spécifique pour tous les utilisateurs</span><span class="sxs-lookup"><span data-stu-id="6bf32-115">Print a report to a specific printer for all users</span></span> |<span data-ttu-id="6bf32-116">Spécifiez une valeur dans les champs **ID état** et **Nom de l'imprimante** et ne renseignez pas le champ **ID utilisateur**.</span><span class="sxs-lookup"><span data-stu-id="6bf32-116">Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.</span></span>|
-|<span data-ttu-id="6bf32-117">Imprimer tous les états sur une imprimante spécifique pour un utilisateur spécifique</span><span class="sxs-lookup"><span data-stu-id="6bf32-117">Print all reports to a specific printer for a specific user</span></span>|<span data-ttu-id="6bf32-118">Spécifiez une valeur dans les champs **ID utilisateur** et **Nom de l'imprimante** et ne renseignez pas le champ **ID état**.</span><span class="sxs-lookup"><span data-stu-id="6bf32-118">Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.</span></span>|
-|<span data-ttu-id="6bf32-119">Définir l'imprimante par défaut pour tous les états</span><span class="sxs-lookup"><span data-stu-id="6bf32-119">Set the default printer for all reports</span></span>|<span data-ttu-id="6bf32-120">Spécifiez une valeur dans le champ **Nom de l'imprimante** et ne renseignez pas les champs **ID utilisateur** et **ID état**.</span><span class="sxs-lookup"><span data-stu-id="6bf32-120">Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.</span></span>|
-|<span data-ttu-id="6bf32-121">Imprimer un rapport spécifique sur l'imprimante par défaut de l'utilisateur</span><span class="sxs-lookup"><span data-stu-id="6bf32-121">Print a specific report to the user’s default printer</span></span>|<span data-ttu-id="6bf32-122">Spécifiez une valeur dans le champ **ID état** et ne renseignez pas les champs **Nom de l'imprimante** et **ID utilisateur**.</span><span class="sxs-lookup"><span data-stu-id="6bf32-122">Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.</span></span>|
-|<span data-ttu-id="6bf32-123">Imprimer un rapport spécifique sur une imprimante spécifique pour un utilisateur spécifique</span><span class="sxs-lookup"><span data-stu-id="6bf32-123">Print a specific report to a specific printer for a specific user</span></span>|<span data-ttu-id="6bf32-124">Spécifiez une valeur dans les trois champs.</span><span class="sxs-lookup"><span data-stu-id="6bf32-124">Specify values in all three fields.</span></span>|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
-## <a name="see-also"></a><span data-ttu-id="6bf32-125">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="6bf32-125">See Also</span></span>
-[<span data-ttu-id="6bf32-126">Utiliser Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="6bf32-126">Work with Dynamics NAV</span></span>](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="32a0c-109">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="32a0c-109">See Also</span></span>
+<span data-ttu-id="32a0c-110">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="32a0c-110">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="32a0c-111">Procédure : exécuter des traitements par lots</span><span class="sxs-lookup"><span data-stu-id="32a0c-111">How to: Run Batch Jobs</span></span>](ui-how-run-batch-jobs.md)  
+[<span data-ttu-id="32a0c-112">Procédure : envoyer des documents par e-mail</span><span class="sxs-lookup"><span data-stu-id="32a0c-112">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
 

@@ -1,39 +1,53 @@
 ---
-title: "Procédure : activer l'affectation des écritures en devises différentes"
+title: "Affecter des écritures dans des devises différentes"
+description: "Vous pouvez affecter des écritures du grand livre dans différentes devises, par exemple si vous vendez à un client dans une devise et recevez le paiement dans une autre devise."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 7d6ce2a9133b02a1a38cd853c34b1f3440e7a50e
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: multiple currencies, payment, reconcile
+ms.date: 06/02/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f323b98472f3e2ef0f28000f8a9140b066206945
 ms.contentlocale: fr-ca
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a><span data-ttu-id="84b6d-103">Procédure : activer l'affectation des écritures en devises différentes</span><span class="sxs-lookup"><span data-stu-id="84b6d-103">How to: Enable Application of Ledger Entries in Different Currencies</span></span>
+<span data-ttu-id="84b6d-104">Si vous achetez des produits auprès d'un fournisseur dans une devise et que vous payez ces produits dans une autre devise, vous pouvez affecter le paiement à l'achat.</span><span class="sxs-lookup"><span data-stu-id="84b6d-104">If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.</span></span>
 
-# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a><span data-ttu-id="4bd38-102">Procédure : activer l'affectation des écritures en devises différentes</span><span class="sxs-lookup"><span data-stu-id="4bd38-102">How to: Enable Application of Ledger Entries in Different Currencies</span></span>
-<span data-ttu-id="4bd38-103">Si vous achetez des produits auprès d'un fournisseur dans une devise et que vous payez ces produits dans une autre devise, vous pouvez affecter le paiement à l'achat.</span><span class="sxs-lookup"><span data-stu-id="4bd38-103">If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.</span></span>
+<span data-ttu-id="84b6d-105">De même, si vous effectuez une vente à un client dans une devise et recevez le règlement dans une autre devise, vous pouvez affecter le règlement à la facture vente.</span><span class="sxs-lookup"><span data-stu-id="84b6d-105">Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.</span></span>
 
-<span data-ttu-id="4bd38-104">De même, si vous effectuez une vente à un client dans une devise et recevez le paiement dans une autre devise, vous pouvez affecter le paiement à la facture vente.</span><span class="sxs-lookup"><span data-stu-id="4bd38-104">Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.</span></span>
+<span data-ttu-id="84b6d-106">La procédure suivante indique comment configurer cela pour les écritures comptables fournisseur dans la fenêtre **Paramètres achats**.</span><span class="sxs-lookup"><span data-stu-id="84b6d-106">The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window.</span></span> <span data-ttu-id="84b6d-107">La configuration est semblable à celle des écritures comptables client dans la fenêtre **Paramètres ventes**.</span><span class="sxs-lookup"><span data-stu-id="84b6d-107">The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.</span></span>
 
-<span data-ttu-id="4bd38-105">La procédure suivante indique comment configurer cela pour les écritures comptables fournisseur dans la fenêtre **Paramètres achats**.</span><span class="sxs-lookup"><span data-stu-id="4bd38-105">The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window.</span></span> <span data-ttu-id="4bd38-106">La configuration est semblable à celle des écritures comptables client dans la fenêtre **Paramètres ventes**.</span><span class="sxs-lookup"><span data-stu-id="4bd38-106">The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.</span></span>
+## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><span data-ttu-id="84b6d-108">Pour activer l'affectation des écritures fournisseur en devises différentes</span><span class="sxs-lookup"><span data-stu-id="84b6d-108">To enable application of vendor ledger entries in different currencies</span></span>
+1. <span data-ttu-id="84b6d-109">Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Paramètres achats**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="84b6d-109">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchases & Payables Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="84b6d-110">Dans le champ **Lettrage entre devises**, sélectionnez l'une des options suivantes.</span><span class="sxs-lookup"><span data-stu-id="84b6d-110">In the **Appln. between Currencies** field, select one of the following options.</span></span>
 
-## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><span data-ttu-id="4bd38-107">Pour activer l'affectation des écritures fournisseur en devises différentes</span><span class="sxs-lookup"><span data-stu-id="4bd38-107">To enable application of vendor ledger entries in different currencies</span></span>
-1. <span data-ttu-id="4bd38-108">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Paramètres achats**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="4bd38-108">In the top right corner, choose the **Search for Page or Report** icon, enter **Purchases & Payables Setup**, and then choose the related link.</span></span>
-2. <span data-ttu-id="4bd38-109">Dans le champ **Lettrage entre devises**, sélectionnez l'une des options suivantes.</span><span class="sxs-lookup"><span data-stu-id="4bd38-109">In the **Appln. between Currencies** field, select one of the following options.</span></span>
+| <span data-ttu-id="84b6d-111">Option</span><span class="sxs-lookup"><span data-stu-id="84b6d-111">Option</span></span> | <span data-ttu-id="84b6d-112">Description</span><span class="sxs-lookup"><span data-stu-id="84b6d-112">Description</span></span> |
+| --- | --- |
+| <span data-ttu-id="84b6d-113">Aucun</span><span class="sxs-lookup"><span data-stu-id="84b6d-113">None</span></span> |<span data-ttu-id="84b6d-114">L'affectation entre devises n'est pas autorisée.</span><span class="sxs-lookup"><span data-stu-id="84b6d-114">Application between currencies is not allowed.</span></span> |
+| <span data-ttu-id="84b6d-115">Devises U.M.E.</span><span class="sxs-lookup"><span data-stu-id="84b6d-115">EMU</span></span> |<span data-ttu-id="84b6d-116">L'affectation entre devises UME est autorisée.</span><span class="sxs-lookup"><span data-stu-id="84b6d-116">Application between EMU currencies is allowed.</span></span> |
+| <span data-ttu-id="84b6d-117">Tout</span><span class="sxs-lookup"><span data-stu-id="84b6d-117">All</span></span> |<span data-ttu-id="84b6d-118">L'affectation entre toutes les devises est autorisée.</span><span class="sxs-lookup"><span data-stu-id="84b6d-118">Application between all currencies is allowed.</span></span> |
 
-|<span data-ttu-id="4bd38-110">Option</span><span class="sxs-lookup"><span data-stu-id="4bd38-110">Option</span></span> |<span data-ttu-id="4bd38-111">Description</span><span class="sxs-lookup"><span data-stu-id="4bd38-111">Description</span></span> |
-|-------|------------|
-|<span data-ttu-id="4bd38-112">Aucun</span><span class="sxs-lookup"><span data-stu-id="4bd38-112">None</span></span>|<span data-ttu-id="4bd38-113">L'affectation entre devises n'est pas autorisée.</span><span class="sxs-lookup"><span data-stu-id="4bd38-113">Application between currencies is not allowed.</span></span>|
-|<span data-ttu-id="4bd38-114">Devises U.M.E.</span><span class="sxs-lookup"><span data-stu-id="4bd38-114">EMU</span></span>|<span data-ttu-id="4bd38-115">L'affectation entre devises UME est autorisée.</span><span class="sxs-lookup"><span data-stu-id="4bd38-115">Application between EMU currencies is allowed.</span></span>|
-|<span data-ttu-id="4bd38-116">Tout</span><span class="sxs-lookup"><span data-stu-id="4bd38-116">All</span></span>|<span data-ttu-id="4bd38-117">L'affectation entre toutes les devises est autorisée.</span><span class="sxs-lookup"><span data-stu-id="4bd38-117">Application between all currencies is allowed.</span></span>
+## <a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a><span data-ttu-id="84b6d-119">Pour configurer des comptes du grand livre afin d'autoriser les différences d'arrondissement des devises</span><span class="sxs-lookup"><span data-stu-id="84b6d-119">To set up G/L accounts for currency application rounding differences</span></span>  
+<span data-ttu-id="84b6d-120">Si vous affectez des écritures dans différentes devises, vous devez configurer les comptes du grand livre sur lesquels reporter les différences d'arrondissement.</span><span class="sxs-lookup"><span data-stu-id="84b6d-120">If you apply entries in different currencies, you must set up the general ledger accounts to which you want to post rounding differences.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="4bd38-118">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="4bd38-118">See Also</span></span>  
-[<span data-ttu-id="4bd38-119">Gestion des comptes fournisseur</span><span class="sxs-lookup"><span data-stu-id="4bd38-119">Manage Payables</span></span>](payables-manage-payables.md)  
-[<span data-ttu-id="4bd38-120">Gestion des comptes client</span><span class="sxs-lookup"><span data-stu-id="4bd38-120">Manage Receivables</span></span>](receivables-manage-receivables.md)
+> [!NOTE]  
+>  <span data-ttu-id="84b6d-121">Vous devez configurer les comptes généraux avant de terminer la tâche.</span><span class="sxs-lookup"><span data-stu-id="84b6d-121">You must set up the general ledger accounts before you complete the task.</span></span> <span data-ttu-id="84b6d-122">Pour plus d'informations, voir [Description du grand livre et du plan comptable](finance-general-ledger.md).</span><span class="sxs-lookup"><span data-stu-id="84b6d-122">For more information, see [Understanding the General Ledger and the Chart of Accounts](finance-general-ledger.md).</span></span>
+
+1. <span data-ttu-id="84b6d-123">Choisissez l'icône ![Page ou rapport pour la recherche](media/ui-search/search_small.png "icône Page ou rapport pour la recherche"), entrez **Groupes de report du client**, puis sélectionnez le lien associé.</span><span class="sxs-lookup"><span data-stu-id="84b6d-123">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer Posting Groups**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="84b6d-124">Dans les champs **Cpte arr. affect. dev. débit** et **Cpte arr. affect. dev. crédit**, saisissez les comptes du grand livre correspondants pour reporter les différences d'arrondissement.</span><span class="sxs-lookup"><span data-stu-id="84b6d-124">In the **Debit Curr. Appln. Rndg. Acc.** and **Credit Curr. Appln. Rndg. Acc.** fields, enter the relevant general ledger accounts to post rounding differences.</span></span>  
+3. <span data-ttu-id="84b6d-125">Choisissez l'icône ![Page ou rapport pour la recherche](media/ui-search/search_small.png "icône Page ou rapport pour la recherche"), entrez **Groupes de report du fournisseur**, puis sélectionnez le lien associé.</span><span class="sxs-lookup"><span data-stu-id="84b6d-125">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendor Posting Groups**, and then choose the related link.</span></span>  
+4. <span data-ttu-id="84b6d-126">Dans les champs **Cpte arr. affect. dev. débit** et **Cpte arr. affect. dev. crédit**, saisissez les comptes du grand livre correspondants pour reporter les différences d'arrondissement.</span><span class="sxs-lookup"><span data-stu-id="84b6d-126">In the **Debit Curr. Appln. Rndg. Acc.** and **Credit Curr. Appln. Rndg. Acc.** fields, enter the relevant general ledger accounts to post rounding differences.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="84b6d-127">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="84b6d-127">See Also</span></span>
+[<span data-ttu-id="84b6d-128">Gestion des comptes fournisseur</span><span class="sxs-lookup"><span data-stu-id="84b6d-128">Managing Payables</span></span>](payables-manage-payables.md)  
+[<span data-ttu-id="84b6d-129">Gestion des comptes client</span><span class="sxs-lookup"><span data-stu-id="84b6d-129">Managing Receivables</span></span>](receivables-manage-receivables.md)  
+<span data-ttu-id="84b6d-130">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="84b6d-130">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 
