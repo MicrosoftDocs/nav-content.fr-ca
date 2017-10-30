@@ -1,41 +1,55 @@
 ---
-title: "Créer des séries de numéros"
+title: "Procédure : créer des séries de numéros "
+description: "Découvrez comment configurer des séries de numéros qui affectent les codes d'identification uniques aux comptes et aux documents dans Dynamics NAV."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 22b3bcf71c99e106527d6bfa35478045d29b9629
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: numbers, numbering
+ms.date: 06/02/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 643e3e6a3374a2364f850c9d77ca3f59f01dab61
 ms.contentlocale: fr-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-create-number-series"></a>Procédure : créer des séries de numéros
+Pour chaque compagnie que vous configurez, vous devez affecter des codes d'identification uniques aux éléments tels que les comptes du grand livre, les comptes client et fournisseur, les factures et d'autres documents. La numérotation est importante, pas uniquement pour l'identification. Un système de numérotation bien conçu facilite également la gestion et l'analyse de la compagnie et permet de réduire les erreurs de saisie des données.
 
-# <a name="create-number-series"></a>Créer des séries de numéros
+> [!NOTE]  
+>   Il est recommandé d'utiliser les mêmes codes souche de numéros que ceux répertoriés dans la fenêtre **Liste de souches de numéros** de la société de démonstration CRONUS. Des codes tels que *P-INV+* ne vont pas vous paraître significatifs au premier abord, mais [!INCLUDE[d365fin](includes/d365fin_md.md)] dispose d'un certain nombre de paramètres par défaut en fonction de ces codes souche de numéros.
 
-Pour chaque compagnie que vous configurez, vous devez affecter des codes d'identification uniques aux éléments tels que les comptes du grand livre, les comptes client et fournisseur, les factures et les documents. La numérotation est importante, pas uniquement pour l'identification. Un système de numérotation bien conçu facilite également la gestion et l'analyse de la compagnie et permet de réduire les erreurs de saisie des données.
+Vous créez un système de numérotation en définissant un ou plusieurs codes pour chaque type de données de base ou de document. Par exemple, vous pouvez définir un code pour la numérotation de clients, un code pour la numérotation des factures vente et un autre code pour la numérotation des documents dans les feuilles comptabilité. Une fois que vous avez défini un code, vous devez définir au moins une ligne série de numéros. Celle-ci contient des informations telles que les premier et dernier numéros de la série et la date début. Vous pouvez définir plusieurs lignes série de numéros par code série de numéros, avec une date début différente pour chaque ligne. Les séries sont utilisées de manière consécutive, chaque série commençant à la date début respective.
 
-Vous pouvez configurer un système de numérotation complet avec un nombre illimité de séries de numéros. Vous pouvez utiliser des séries de numéros pour tous les types de documents et journaux, ainsi que pour les données de base, telles que les clients, les articles et les projets.
-
-Vous pouvez combiner l'utilisation des séries de numéros et la numérotation manuelle.
-
-Vous créez un système de numérotation en définissant un ou plusieurs codes pour chaque type de données de base ou de document. Par exemple, vous pouvez définir un code pour la numérotation de clients, un code pour la numérotation des factures vente et un autre code pour la numérotation des documents dans les feuilles comptabilité.
-
-Une fois que vous avez défini un code, vous devez définir au moins une ligne série de numéros. La ligne série de numéros contient des informations telles que les premier et dernier numéros de la série et la date début. Vous pouvez définir plusieurs lignes série de numéros par code série de numéros, avec une date début différente pour chaque ligne. Les séries sont utilisées de manière consécutive, chaque série commençant à la date début respective.
+Vous devez généralement définir votre série de numéros pour insérer automatiquement le numéro suivant sur des fiches ou des documents que vous créez. Toutefois, vous pouvez également définir une série de numéros pour permettre la saisie manuelle du nouveau numéro. Vous spécifiez cela grâce à la case à cocher **N° manuels**.
 
 Si vous voulez utiliser plusieurs codes série de numéros pour un type de données de base (par exemple, si vous voulez utiliser différentes séries de numéros pour diverses catégories d'articles), vous pouvez utiliser des liens de séries de numéros.
 
-Outre les numéros affectés manuellement ou à l'aide du système de numérotation, toutes les transactions (écritures) se voient automatiquement affecter des numéros consécutifs. Ces numéros s'affichent dans le champ **N° écriture** de toutes les fenêtres écritures. Vous ne pouvez pas les modifier ni les supprimer.
+## <a name="to-create-a-new-number-series"></a>Pour créer des séries de numéros
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône"), entrez **Souches de n°**, puis sélectionnez le lien connexe.
+2. Sélectionnez l'action **Nouveau**.
+3. Sur la nouvelle ligne, renseignez les champs selon vos besoins. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+**CONSEIL** : pour permettre la saisie manuelle de numéros sur des fiches ou des documents, décochez la case **N° par défaut** et cochez la case **N° manuels**.
+
+Désormais, lorsque vous créez une fiche ou un document configuré pour utiliser la souche de numéros en question, vous pouvez renseigner manuellement le champ **N°** avec n'importe quelle valeur.  
+
+## <a name="to-set-up-where-a-number-series-is-used"></a>Pour définir l'emplacement d'utilisation de la série de numéros
+La procédure suivante indique comment définir des séries de numéros pour la zone Ventes. La procédure est identique pour d'autres secteurs.
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône"), entrez **Souches de n°**, puis sélectionnez le lien connexe.
+2. Dans la fenêtre **Ventes**, dans le raccourci **Souche de numéros**, sélectionnez la souche de numéros souhaitée pour chaque fiche ou document vente.
+
+Le numéro sélectionné est désormais utilisé pour renseigner le champ **N°** sur la fiche ou le document en question, en fonction des paramètres définis sur la ligne série de numéros.
 
 ## <a name="to-create-relationships-between-number-series"></a>Pour créer des liens entre des séries de numéros
 Si vous avez défini plusieurs codes série de numéros pour un même type d'informations ou de transactions de base, vous pouvez créer des liens entre ces codes. Cette fonction peut vous aider à choisir parmi ces codes lorsque vous utilisez un numéro.
 
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Souches de n°**, puis sélectionnez le lien connexe.
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône"), entrez **Souches de n°**, puis sélectionnez le lien connexe.
 2. Sélectionnez la ligne avec la souche de numéros pour laquelle vous souhaitez créer des relations, puis cliquez sur **Relations**.
 3. Dans le champ **Code souche**, entrez le code de la souche de numéros à lier à la souche sélectionnée à l'étape 2.
 4. Ajoutez une ligne pour chaque code à lier à la série de numéros sélectionnée.
@@ -44,5 +58,6 @@ Si vous avez défini plusieurs codes série de numéros pour un même type d'inf
 Désormais, pour créer un élément nécessitant un numéro, vous pourrez utiliser les liens ainsi créés et choisir parmi les séries de numéros liées.
 
 ## <a name="see-also"></a>Voir aussi
-[Utiliser Dynamics NAV](ui-work-product.md)
+[Configuration de [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

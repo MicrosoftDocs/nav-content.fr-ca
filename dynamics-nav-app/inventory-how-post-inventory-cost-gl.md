@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 59815db9c7b435ff585e1174b570029a360dea6e
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 34eec596392e9316e807d3c073c3b8e59dbc12e9
 ms.contentlocale: fr-ca
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -43,7 +43,7 @@ Si une erreur se produit dans la configuration de dimension lors du report des c
 
 Pour afficher la liste des erreurs avant d'exécuter le traitement par lot de validation, vous pouvez générer l'état **Valider coûts ajust. - Test**. Le rapport de test répertorie toutes les erreurs détectées durant le test de report. Vous pouvez ensuite corriger les erreurs et exécuter le traitement en lot de report des coûts inventaire sans ignorer aucune entrée.
 
-Si vous voulez simplement afficher un aperçu des valeurs qui pourraient être reportées dans le grand livre sans réellement effectuer le report, vous pouvez exécuter le traitement en lot Reporter coûts inventaire dans le grand livre sans réellement reporter les valeurs dans le grand livre. Pour ce faire, désactivez le champ Reporter sur la page de demande. De cette manière, lorsque vous exécutez le traitement en lot, le rapport est produit, indiquant les valeurs prêtes pour report dans le grand livre, mais elles ne sont pas reportées.
+Si vous voulez simplement afficher un aperçu des valeurs qui pourraient être reportées dans le grand livre sans réellement effectuer le report, vous pouvez exécuter le traitement en lot Reporter le coût de l'inventaire au grand livre sans réellement reporter les valeurs dans le grand livre. Pour ce faire, désactivez le champ Reporter sur la page de demande. De cette manière, lorsque vous exécutez le traitement en lot, le rapport est produit, indiquant les valeurs prêtes pour report dans le grand livre, mais elles ne sont pas reportées.
 
 ## <a name="see-also"></a>Voir aussi
 [Gestion du stock](inventory-manage-inventory.md)    

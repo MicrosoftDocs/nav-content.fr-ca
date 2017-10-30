@@ -1,1 +1,1 @@
-Configuration de Microsoft Dynamics NAV 2017
+Configuration Microsoft Dynamics NAV 2017
