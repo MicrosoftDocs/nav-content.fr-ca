@@ -12,24 +12,29 @@ ms.search.keywords: integration, synchronize, map
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f3c9cff4094395a1f06ba04ba2476de76c4a04a1
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 3f26a80427a2a1c38949ca94848751527383d7f9
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="managing-your-customer-relationships-using-dynamics-365-for-sales-from-inside-dynamics-nav"></a>Gestion de vos relations client à l'aide de Dynamics 365 for Sales à partir de Dynamics NAV
+# <a name="managing-customers-and-sales-created-in-dynamics-365-for-sales"></a>Gestion des clients et des ventes créés dans Dynamics 365 for Sales
 Si vous utilisez Dynamics 365 for Sales pour la communication avec le client, vous pouvez utiliser [!INCLUDE[d365fin](includes/d365fin_md.md)] pour le traitement des commandes et les finances et avoir une intégration transparente dans le processus allant du prospect à l'encaissement.
 
 Lorsque votre application est configurée pour l'intégration à Dynamics 365 for Sales, vous avez accès aux données des ventes à partir de [!INCLUDE[d365fin](includes/d365fin_md.md)] et inversement dans certains cas. L'intégration vous permet d'utiliser et de synchroniser les types de données communs aux deux services, par exemple clients, contacts et informations de vente, et mettre à jour les données dans les deux emplacements.  
 
-Par exemple, les représentants dans Dynamics 365 for Sales peuvent utiliser les tarifs dans [!INCLUDE[d365fin](includes/d365fin_md.md)] lorsqu'ils créent un document de vente. Lorsqu'ils ajoutent l'article à la ligne document de vente dans Dynamics 365 for Sales, ils peuvent également visualiser le niveau d'inventaire (disponibilité) de l'article dans [!INCLUDE[d365fin](includes/d365fin_md.md)]. Ces données sont publiées dans le cadre du guide de configuration assistée, **Configuration de la connexion à Dynamics 365**.  
+Par exemple, les représentants dans Dynamics 365 for Sales peuvent utiliser les tarifs dans [!INCLUDE[d365fin](includes/d365fin_md.md)] lorsqu'ils créent un document de vente. Lorsqu'ils ajoutent l'article à la ligne document de vente dans Dynamics 365 for Sales, ils peuvent également visualiser le niveau d'inventaire (disponibilité) de l'article dans [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Inversement, les préparateurs de commandes dans [!INCLUDE[d365fin](includes/d365fin_md.md)] peuvent gérer les caractéristiques spéciales des documents de vente transférés automatiquement ou manuellement à partir de Dynamics 365 for Sales, comme créer et reporter automatiquement les lignes document de vente valides pour les articles ou les ressources qui ont été entrés dans Sales en tant que produits hors catalogue. Pour plus d'informations, voir la section « Gestion des données de documents de vente spéciaux ».  
+
+> [!NOTE]
+> Avant d'effectuer l'intégration à Dynamics 365 for Sales, vous devez effectuer diverses préparations techniques. Pour plus d'informations, consultez [Procédure : Configurer une connexion à Dynamics CRM](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-set-up-a-dynamics-crm-connection) et [Procédure : Préparer Dynamics CRM pour l'intégration](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-prepare-dynamics-crm-for-integration) sur MSDN.
 
 ## <a name="setting-up-the-connection"></a>Configuration de la connexion
-À partir de la page d'accueil, vous pouvez accéder au guide de configuration assistée **Configuration de la connexion à Dynamics 365** qui vous aide à configurer la connexion. Une fois cette opération effectuée, vous disposez d'un couplage facile des enregistrements Dynamics 365 for Sales avec les enregistrements [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+À partir de la page d'accueil, vous pouvez accéder au guide de configuration assistée **Configuration de la connexion à Dynamics 365 for Sales** qui vous aide à configurer la connexion. Une fois cette opération effectuée, vous disposez d'un couplage facile des enregistrements Dynamics 365 for Sales avec les enregistrements [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 > [!NOTE]  
->   La section suivante explique la configuration assistée, mais vous pouvez effectuer les mêmes tâches manuellement dans la fenêtre **Configuration de la connexion à Dynamics 365**.
+> La section suivante explique la configuration assistée, mais vous pouvez effectuer les mêmes tâches manuellement dans la fenêtre **Configuration de la connexion à Dynamics 365 for Sales**.
 
 Dans le guide de configuration assistée, vous pouvez choisir les données à synchroniser entre les deux services. Vous pouvez également spécifier où vous souhaitez importer votre solution Dynamics 365 for Sales existante. Dans ce cas, vous devez indiquer les informations d'identification d'un compte utilisateur.
 
@@ -75,6 +80,13 @@ Les documents de vente Dynamics 365 for Sales dépendent d'informations supplé
 Pour vérifier la progression des projets individuels lors d'une synchronisation complète, accédez au champ **Statut écriture file d'attente des travaux**, **Statut projet Vers la table int.** ou **Statut projet À partir de la table int.** dans la fenêtre **Synchronisation complète CRM. Révision**.
 
 Dans la fenêtre **Configuration de la connexion à Dynamics 365**, vous pouvez obtenir des détails sur la synchronisation complète à tout moment. À partir de cette fenêtre, vous pouvez aussi ouvrir la fenêtre **Correspondances table intégration** pour afficher les détails des tables dans Dynamics NAV et dans la solution Dynamics 365 for Sales à synchroniser.
+
+## <a name="handling-special-sales-order-data"></a>Gestion des données de documents de vente spéciaux
+Les documents de vente dans Dynamics 365 for Sales seront transférés à [!INCLUDE[d365fin](includes/d365fin_md.md)] automatiquement si vous sélectionnez la case à cocher **Créer automatiquement des documents de vente** dans la fenêtre **Configuration de la connexion à Microsoft Dynamics 365 for Sales**. Sur ces documents de vente, le champ **Nom** de la commande d'origine est transféré et associé au champ **Numéro de document externe** du document de vente dans [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Ceci peut également fonctionner si le document de vente d'origine contient des produits hors catalogue, c'est-à-dire des articles ou des ressources qui ne sont enregistrés dans aucun produit. Dans ce cas, vous devez renseigner les champs **Type produit hors catalogue** et **N° produit hors catalogue** de la fenêtre **Paramètres ventes**, de sorte que ces ventes de produits non enregistrées soient mappées à un nombre donné d'articles/de ressources pour l'analyse financière.
+
+Si la description de l'article sur le document de vente d'origine est très longue, une ligne document de vente supplémentaire de type Commentaire est créée pour stocker le texte intégral du document de vente dans [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="see-also"></a>Voir aussi
 [Gestion des relations](marketing-relationship-management.md)  

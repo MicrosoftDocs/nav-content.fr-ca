@@ -12,10 +12,10 @@ ms.search.keywords: warehouse, stock
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 808ef6ffd4448aa73c03cbf7e193bf1ddbdf3ec3
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 8b79bfd187b04e378180d699aa880e21cf8410c9
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
@@ -26,7 +26,8 @@ Les augmentations et diminutions d'inventaire sont également évidemment enregi
 
 Pour accroître votre aperçu d'articles et pour vous aider à les trouver, vous pouvez catégoriser les articles et leur donner des attributs pour vos opérations de recherche et de tri.
 
-> []!REMARQUE] Le traitement physique des articles est appelé Activités entrepôt. Pour plus d'informations, voir [Gestion d'entrepôt](warehouse-manage-warehouse.md).
+> [!NOTE]
+> Le traitement physique des articles est appelé Activités entrepôt. Pour plus d'informations, voir [Gestion d'entrepôt](warehouse-manage-warehouse.md).
 
 ## <a name="inventory-reconciliation"></a>Rapprochement inventaire
 Lorsque vous reportez des transactions inventaire, tels que des livraisons vente, des factures achat ou des ajustements inventaire, les coûts article modifiés sont enregistrés dans les écritures valeur article. Pour refléter ces modifications de la valeur inventaire dans vos livres financiers, les coûts inventaire sont automatiquement reportés dans les comptes inventaire associés dans le grand livre. Pour chaque transaction inventaire que vous reportez, les valeurs appropriées sont reportées dans le compte inventaire, le compte ajustement et le compte variation inventaire dans le grand livre. Pour plus d'informations, voir [Procédure : rapprocher les coûts inventaire avec le grand livre](finance-how-to-post-inventory-costs-to-the-general-ledger.md).
@@ -54,5 +55,5 @@ Bien que les coûts inventaire soient automatiquement reportés dans le grand li
 [Utilisation de [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [Fonctionnalités marché](ui-across-business-areas.md)
 
-## 
+##
 

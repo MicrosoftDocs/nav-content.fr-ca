@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, Intrastat, trade, EU, European Union
 ms.date: 08/15/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 210d8290c7f281d9dc63dc520cf0be71b9a20233
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1eb3a9a17f07806546022d941f923bc195c7c7fc
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-and-report-intrastat"></a>Procédure : configurer et soumettre une déclaration Intrastat
@@ -74,7 +74,7 @@ Après avoir renseigné le journal Intrastat, vous pouvez imprimer le rapport **
 
 ### <a name="to-fill-in-intrastat-journals"></a>Pour renseigner des feuilles intracommunautaires  
 1. Choisissez l'icône ![Page ou rapport pour la recherche](media/ui-search/search_small.png "icône Page ou rapport pour la recherche"), entrez **Journal Intrastat**, puis sélectionnez le lien associé.  
-2. Sur la page **Journal Intrastat**, dans le champ **Nom de lot**, sélectionnez le lot journal concerné, puis sélectionnez **OK**.  
+2. Sur la page **Journal Intrastat**, dans le champ **Nom de lot**, sélectionnez le lot journal concerné, puis choisissez le bouton **OK**.  
 3. Choisissez l'action **Proposer lignes**. Les champs **Date début** et **Date fin** contiennent déjà les dates spécifiées sur la feuille pour la période statistique.  
 4. Dans le champ **% régulation coût**, entrez un pourcentage pour couvrir le transport et l'assurance. Lorsque vous saisissez un pourcentage, la valeur du champ **Valeur statistique** de la feuille augmente proportionnellement.  
 5. Cliquez sur **OK** pour démarrer le traitement en lot.  
@@ -101,7 +101,7 @@ Vous pouvez envoyer la déclaration Intrastat en tant que fichier. Avant de cré
 2. Dans la fenêtre **Feuille intracomm.**, sélectionnez la feuille concernée dans le champ **Nom de la feuille**.  
 3. Si ce n'est déjà fait, renseignez le journal manuellement ou en sélectionnant **Proposer lignes**.  
 4. Choisissez l'action **Créer fichier**.  
-5. Dans la fenêtre de traitement en lot, choisissez **OK**.  
+5. Dans la fenêtre du traitement en lot, choisissez le bouton **OK**.  
 6. Choisissez **Enregistrer**.  
 7. Sélectionnez l'emplacement d'enregistrement du fichier, entrez son nom, puis choisissez **Enregistrer**. 
 
