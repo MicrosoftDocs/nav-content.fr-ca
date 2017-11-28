@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 08/23/2017
+ms.date: 02/11/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
+ms.sourcegitcommit: 3554bd08bf30f5faca43b4308a91f3c66e1baded
+ms.openlocfilehash: 30a9b0a3a283660359702788423811f756c94955
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/02/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Bienvenue dans [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] !
@@ -39,7 +39,7 @@ La page d'accueil utilise une conception centrée sur le rôle pour vous permett
 
 Chaque page d'accueil fournit un bouton **Configuration et extensions**. Ici vous avez accès à la liste de configuration assistée qui peut vous aider à démarrer en définissant les zones sélectionnés rapidement. Si une zone n'est pas couverte par une configuration assistée, sélectionnez l'option **Programme d'installation manuelle** pour accéder aux fenêtres de paramétrage dans lesquelles vous pouvez renseigner les champs de configuration pour toutes les zones manuellement. Pour plus d'informations, reportez-vous à [Configuration de [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
 
-| Configuration assistée | Description |
+| Configuration assistée | Désignation |
 | --- | --- |
 | Effectuer migration données métier |Vous permet d'importer vos données de compagnie existantes telles que les fournisseurs, les clients et les articles à partir d'Excel ou de Quickbooks. |
 | Configurer ma compagnie |Crée une nouvelle société test qui vous permet de saisir des données et d'essayer [!INCLUDE[d365fin](includes/d365fin_md.md)]. Si vous avez effectué la visite de mise en route, ce processus est probablement déjà **Terminé**. |
