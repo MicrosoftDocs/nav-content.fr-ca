@@ -3,7 +3,7 @@ title: "Procédure : prélever pour la fabrication dans les configurations de s
 description: "Lorsque l'emplacement entrepôt nécessite un traitement de prélèvement sans nécessiter de traitement de livraison, vous pouvez utiliser la fenêtre **Prélèvement inventaire** pour organiser et enregistrer le prélèvement des composantes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

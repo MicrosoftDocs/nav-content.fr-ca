@@ -2,7 +2,7 @@
 title: "Procédure : créer des commandes spéciales"
 description: "Vous pouvez créer une commande spéciale pour un article spécifique non stocké à livrer à un client particulier. Le fournisseur livre l'article à votre entrepôt et vous pouvez ensuite le livrer à votre client seul ou avec d'autres articles issus d'autres commandes."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

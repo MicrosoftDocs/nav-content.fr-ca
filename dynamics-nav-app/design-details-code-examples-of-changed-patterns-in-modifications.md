@@ -3,7 +3,7 @@ title: "Détails de conception - fermeture de l'offre et de la demande"
 description: "Lorsque les procédures d'équilibre d'approvisionnement ont été réalisées, il existe trois situations de fin possibles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

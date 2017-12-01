@@ -3,7 +3,7 @@ title: "Procédure : livrer des articles"
 description: "En fonction de votre configuration d'entrepôt, vous pouvez enregistrer la livraison sur le document d'entreprise sortant associé, comme un document de vente, directement, ou vous pouvez utiliser les documents livraison entrepôt qui respectent un flux de travail et s'intègrent à différentes activités entrepôt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

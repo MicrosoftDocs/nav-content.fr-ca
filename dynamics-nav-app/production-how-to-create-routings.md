@@ -3,7 +3,7 @@ title: "Procédure : créer des itinéraires"
 description: "Un itinéraire contient les données de base qui capturent les exigences du traitement correspondant à un article produit donné. Après la création d'un bon de production pour cet article, son itinéraire gouvernera la programmation des opérations comme représenté dans la fenêtre **Itinéraire bon de prod.** sous le bon de production."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

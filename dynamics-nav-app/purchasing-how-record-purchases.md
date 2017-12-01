@@ -3,7 +3,7 @@ title: "Créer une facture achat et enregistrer les achats"
 description: "Décrit comment acheter des articles inventaire ou service en créant et en reportant des factures ou des bons de commande."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

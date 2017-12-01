@@ -3,7 +3,7 @@ title: "Détails de conception - Ligne report de journal général"
 description: "Cette rubrique présente les concepts et principes qui sont utilisés pour reconcevoir la fonction de ligne de report de journal général dans [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

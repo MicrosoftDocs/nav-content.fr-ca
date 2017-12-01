@@ -3,7 +3,7 @@ title: "Vérifier les paiements affectés automatiquement et appliquer à nouvea
 description: "Après l'affectation automatique des paiements, vous pouvez consulter toutes les écritures d'un paiement et appliquer à nouveau manuellement celles dont l'affectation était incorrecte."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

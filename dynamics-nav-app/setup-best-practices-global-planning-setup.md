@@ -2,7 +2,7 @@
 title: "Pratiques recommandées pour la configuration globale de la planification"
 description: "Le raccourci **Planification** de la fenêtre **Configuration de la fabrication** comporte plusieurs champs permettant de définir des règles globales pour la planification de l'approvisionnement."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

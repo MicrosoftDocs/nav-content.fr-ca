@@ -3,7 +3,7 @@ title: "Procédure : configurer des ateliers et des unités de production"
 description: "Les fiches **Atelier** organisent les exigences et les valeurs fixes des ressources de production, et régissent ainsi la production de l'atelier."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

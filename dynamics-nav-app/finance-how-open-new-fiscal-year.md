@@ -2,7 +2,7 @@
 title: "Créer des périodes comptables et des exercices financiers"
 description: "Vous devez ouvrir un exercice financier et définir ses périodes comptables avant de pouvoir y effectuer des reports."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

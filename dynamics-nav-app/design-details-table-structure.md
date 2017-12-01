@@ -3,7 +3,7 @@ title: "Détails de conception - Structure de la table"
 description: "Pour comprendre comment le stockage et le report d'écriture de dimension sont conçus, il est important de comprendre la structure des tables."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

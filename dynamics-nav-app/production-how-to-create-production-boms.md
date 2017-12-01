@@ -3,7 +3,7 @@ title: "Comment créer des nomenclatures de production"
 description: "Une nomenclature de production contient les données de base qui décrivent les composantes et les sous-ensembles utilisés lors de la production d'un article parent. Après la création d'un bon de production pour cet article parent, sa nomenclature de production régira le calcul des besoins matière tels que représentés dans la fenêtre **Composantes bon de production**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

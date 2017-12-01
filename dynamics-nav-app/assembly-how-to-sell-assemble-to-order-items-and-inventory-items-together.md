@@ -3,7 +3,7 @@ title: "Procédure : vendre simultanément des articles à assembler pour comma
 description: "Si l'élément d'assemblage est configuré pour un assemblage pour stock, le processus par défaut de document de vente se base sur l'hypothèse que l'article est déjà assemblé et peut être prélevé de l'inventaire, s'il est disponible. Mais si une partie (ou la totalité) de la quantité n'est pas disponible, vous avez la possibilité de créer un ordre d'assemblage pour la quantité restante à la volée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

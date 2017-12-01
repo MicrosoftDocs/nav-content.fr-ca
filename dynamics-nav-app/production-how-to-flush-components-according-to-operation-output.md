@@ -3,7 +3,7 @@ title: "Procédure : consommer des composantes en fonction de la sortie réalis
 description: "Pour les articles configurés avec la méthode de consommation en amont, le comportement par défaut est de calculer et de reporter la consommation de composantes lorsque vous affectez au bon de production libéré l'état **Terminé**. Pour plus d'informations, voir Méthode consommation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Exemple de scénario - Définition des affectations dynamiques sur la ba
 description: "Cette rubrique explique comment définir les affectations à l'aide du mode d'affectation dynamique. Dans l'exemple, vous modifiez l'affectation dynamique des coûts pour que le centre de coûts VENTES prenne en charge le nouveau ÉQUIPEMENT IT de l'objet de coûts. Les packages ÉQUIPEMENT IT ont des numéros d'articles dont la plage s'échelonne entre 8904-W et 8924-W. Vous pouvez utiliser les chiffres de ventes de l'exercice précédent pour en calculer le partage. L'affectation est reportée en fonction du type de coût d'aide 9903."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Prélèvement d'articles"
 description: "L'activité entrepôt consistant à prélever les articles avant leur livraison ou consommation s'exécute différemment selon la configuration des fonctions de gestion des entrepôts. Le niveau de complexité de la [configuration](../configure-warehouse-processes.md) varie : aucune fonctionnalité entrepôt, configurations d'entrepôt de base pour le traitement commande par commande dans une ou plusieurs activités uniquement, configurations avancées dans lesquelles toutes les activités entrepôt doivent être exécutées dans un flux de travail suggéré."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : exécuter en lot la consommation"
 description: "Si le champ Méthode consommation indique **Manuelle**, vous devez reporter les composantes manuellement à l'aide d'un journal consommation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

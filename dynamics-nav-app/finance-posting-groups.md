@@ -3,7 +3,7 @@ title: Configuration de groupe de report
 description: "Aperçu des groupes de report que vous pouvez utiliser pour gagner du temps et éviter des erreurs lorsque vous reportez des transactions."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : convertir des emplacements existants en emplacements entre
 description: "Vous pouvez permettre à un emplacement d'inventaire d'utiliser les zones et de devenir l'entrepôt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : déplacer des articles dans les configurations de stockage
 description: "Dans des configurations d'entrepôt avancées, c'est-à-dire des emplacements avec prélèvement et rangement suggérés, des mouvements entrepôt entre zones sont exécutés par un cadre qui prépare des mouvements entrepôt dans la feuille mouvement, puis crée les mouvements entrepôt que les employés d'entrepôt doivent exécuter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

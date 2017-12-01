@@ -3,7 +3,7 @@ title: "Détails de conception - Affectation article"
 description: "Cette rubrique décrit où la quantité et la valeur d'inventaire sont enregistrées lorsque vous reportez une transaction inventaire."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

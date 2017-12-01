@@ -3,7 +3,7 @@ title: "Procédure : modifier les propositions planification dans une vue graph
 description: "Une activité de planification courante est d'ajouter ou de modifier des lignes feuille planification pour modifier les commandes d'approvisionnement proposées avant de les valider en exécutant la fonction **Traiter message d'action**. Plutôt que d'utiliser la vue planification, vous pouvez utiliser une vue graphique."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

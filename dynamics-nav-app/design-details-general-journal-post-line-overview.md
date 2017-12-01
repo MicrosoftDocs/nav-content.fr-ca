@@ -3,7 +3,7 @@ title: "Aperçu de la ligne report de journal général"
 description: "Cette rubrique décrit les modifications du Codeunit 12, **Journal général-Ligne report**, qui est l'objet d'application majeur pour le report dans le grand livre et le seul emplacement pour insérer des écritures GL, TVA, client et fournisseur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "Affecter et modifier les paramètres enregistrés dans des rapports"
 description: "Décrit l'utilisation d'options et filtre prédéfinis pour personnaliser un rapport et pour générer les données exactes."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

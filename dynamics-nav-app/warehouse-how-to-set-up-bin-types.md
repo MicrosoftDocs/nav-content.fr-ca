@@ -3,7 +3,7 @@ title: "Procédure : configurer des types de zones"
 description: "Vous pouvez diriger la circulation des articles vers les emplacements que vous avez définis pour des activités entrepôt particulières. Vous attribuez à chaque zone des activités de flux de base, et définissez de cette façon la manière dont une zone est utilisée, en lui affectant un type."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

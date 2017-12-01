@@ -3,7 +3,7 @@ title: "Critères de transfert des écritures vers les écritures de coûts"
 description: "Il est important de comprendre les critères pour le transfert des écritures aux écritures de coûts. Lors du transfert, le traitement en lot **Transférer les écritures vers CA** applique les critères suivants pour déterminer si les écritures sont transférées et comment."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

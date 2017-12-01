@@ -2,7 +2,7 @@
 title: "Envoyer les déclarations de TVA aux autorités fiscales"
 description: "Apprendre à préparer les rapports qui répertorient la TVA des ventes au cours d'une période, ou à partir des ventes et achats, et envoyer le rapport à l'administration fiscale."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

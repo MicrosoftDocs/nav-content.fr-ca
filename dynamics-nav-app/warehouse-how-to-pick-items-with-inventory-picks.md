@@ -3,7 +3,7 @@ title: "Comment prélever des articles avec les prélèvements stock"
 description: "Si un emplacement est configuré pour exiger un traitement des prélèvements mais pas un traitement des livraisons, vous utilisez les documents prélèvement inventaire pour enregistrer et reporter les informations de prélèvement et de livraison pour vos documents sources."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

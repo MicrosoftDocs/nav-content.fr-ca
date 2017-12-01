@@ -2,7 +2,7 @@
 title: "Configuration des groupes fiscaux, des régions fiscales et des juridictions fiscales au Canada"
 description: "En savoir plus sur la manière dont la taxe de vente est configurée, et sur le fonctionnement des groupes fiscaux, des régions fiscales (états, comtés, villes et localités), des juridictions de taxe et des spécifications de taxe."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : configurer des objets de coûts"
 description: "Découvrez comment configurer des objets de coûts, qui sont similaires aux dimensions pour le grand livre."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Traitement des opportunités de vente dans les cycles de vente"
 description: "Vous pouvez afficher, fermer ou supprimer des opportunités de vente, et vous pouvez également créer des devis et des documents de vente pour des opportunités, et déplacer une opportunité à travers les phases d'un cycle de vente."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

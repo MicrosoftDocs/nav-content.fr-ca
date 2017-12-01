@@ -2,7 +2,7 @@
 title: "Expérience de comptable dans Dynamics NAV"
 description: En savoir plus sur le portail comptable pour Dynamics NAV et le tableau de bord Comptable qui prend en charge les comptables internes et externes de la compagnie du client.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

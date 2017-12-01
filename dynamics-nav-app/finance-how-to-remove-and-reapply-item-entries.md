@@ -3,7 +3,7 @@ title: "Procédure : supprimer et affecter à nouveau des écritures article"
 description: "Vous pouvez visualiser et modifier manuellement certaines écritures d'affectation article qui sont créées automatiquement lors des transactions d'inventaire."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

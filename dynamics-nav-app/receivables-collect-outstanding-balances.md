@@ -2,7 +2,7 @@
 title: "Rappeler ou pénaliser les clients pour les impayés"
 description: "Décrit comment envoyer un rappel à un client concernant un paiement dû et ajouter des frais, ou des commissions au paiement en raison du retard."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

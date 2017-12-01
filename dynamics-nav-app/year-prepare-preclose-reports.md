@@ -3,7 +3,7 @@ title: "Aperçu des rapports préalables à la fermeture pour vérifier l'exacti
 description: "Fournit un aperçu des rapports qui vous permettent de vérifier l'exactitude des comptes avant de fermer les registres à la fin d'un exercice ou d'une période."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

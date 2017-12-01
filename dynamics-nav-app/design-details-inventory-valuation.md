@@ -3,7 +3,7 @@ title: "Détails de conception - Évaluation de l'inventaire"
 description: "Évaluation de l'inventaire XE L'évaluation de l'inventaire est la détermination du coût qui est affecté à un article de l'inventaire, comme exprimé par l'équation suivante."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "À propos des ordres de fabrication"
 description: "Les ordres de fabrication permettent de gérer la conversion de matières achetées en articles fabriqués. La gamme de bons de production (bons de travail ou ordres de travail) utilise diverses fonctions (ateliers ou unités de production) de l'atelier."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

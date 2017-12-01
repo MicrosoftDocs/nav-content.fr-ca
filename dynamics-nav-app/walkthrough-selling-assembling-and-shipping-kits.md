@@ -3,7 +3,7 @@ title: "Procédure pas-à-pas : vente, assemblage et expédition de kits"
 description: "Pour prendre en charge un inventaire juste-à-temps (JIT) et permettre la personnalisation des produits conformément aux demandes client, il est possible de créer des ordres d’assemblage et de les lier automatiquement dès que la ligne document de vente est créée. Le lien entre la demande vente et l’approvisionnement d’assemblage permet aux préparateurs de documents de vente de personnaliser l’article d’assemblage et de proposer des dates de livraison en fonction de la disponibilité des composantes. En outre, la consommation et le résultat d'assemblage sont reportés automatiquement avec la livraison du document de vente associé."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

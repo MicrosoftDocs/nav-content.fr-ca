@@ -3,7 +3,7 @@ title: Examiner un rapport de test avant le report des documents vente ou achat
 description: "Avant de reporter un document, par exemple, une commande ou une note de crédit, vous pouvez le tester et le passer en revue pour rechercher les éventuelles erreurs susceptibles de bloquer le report."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

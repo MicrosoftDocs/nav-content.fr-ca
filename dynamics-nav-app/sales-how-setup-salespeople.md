@@ -2,7 +2,7 @@
 title: "Configurer un représentant"
 description: "Vous pouvez configurer un identificateur pour chacun de vos représentants, afin de pouvoir suivre les performances de la personne ou affecter un représentant à un contact."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

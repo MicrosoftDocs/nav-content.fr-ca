@@ -3,7 +3,7 @@ title: "Procédure : utiliser l'unité de mesure de lot de fabrication"
 description: "Si un article est stocké dans une unité de mesure mais produit dans une autre, le bon de production doit utiliser une unité de mesure de lot de fabrication pour calculer la quantité correcte des composantes. Une situation dans laquelle un article fabriqué est stocké en pièces mais produit en tonnes est un exemple d'un calcul d'unité de mesure de lot de fabrication."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

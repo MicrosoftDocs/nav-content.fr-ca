@@ -3,7 +3,7 @@ title: Comment planifier des rangements dans la feuille
 description: "Lorsque l'emplacement nécessite un traitement à la fois de rangement et de réception et que vous souhaitez planifier des instructions de rangement pour plusieurs réceptions, vous pouvez utiliser la feuille rangement (au lieu de faire suivre aux employés les instructions créées par le programme pour différentes réceptions reportées)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

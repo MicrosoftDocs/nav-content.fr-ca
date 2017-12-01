@@ -2,7 +2,7 @@
 title: "Procédure : sous-traiter la production"
 description: "Une fois que le bon de commande a été créée à partir de la feuille sous-traitant, il peut être reporté."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

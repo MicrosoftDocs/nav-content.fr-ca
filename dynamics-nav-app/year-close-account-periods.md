@@ -3,7 +3,7 @@ title: "Fermer des périodes comptables pour un exercice financier"
 description: "Décrit comment fermer les périodes comptables de l'exercice financier."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

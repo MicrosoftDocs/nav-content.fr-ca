@@ -3,7 +3,7 @@ title: "Procédure : utiliser les périodes d'inventaire"
 description: "Vous pouvez contrôler le délai de report des modifications de l'inventaire en définissant des périodes d'inventaire."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

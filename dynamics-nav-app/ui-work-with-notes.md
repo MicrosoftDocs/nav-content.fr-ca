@@ -2,7 +2,7 @@
 title: Ajout d'informations aux enregistrements
 description: "Ajoutez une note à un enregistrement dans l'application. Par exemple, si vous disposez d'informations supplémentaires sur un document de vente qui ne correspondent à aucun des champs de ce document de vente, vous pouvez rédiger une note."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

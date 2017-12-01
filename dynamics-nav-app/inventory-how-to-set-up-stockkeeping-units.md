@@ -3,7 +3,7 @@ title: "Procédure : configurer des unités de stock"
 description: "Vous pouvez utiliser des unités de stock pour enregistrer des informations relatives à vos articles pour un code d'emplacement ou variante donné."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,12 +18,12 @@ ms.contentlocale: fr-ca
 ms.lasthandoff: 10/16/2017
 
 ---
-# Comment configurer des points de stock
+# <a name="how-to-set-up-stockkeeping-units"></a>Comment configurer des points de stock
 Vous pouvez utiliser des unités de stock pour enregistrer des informations relatives à vos articles pour un code d'emplacement ou variante donné.  
 
  Les points de stock représentent un supplément des fiches article. Ils ne les remplacent pas, bien qu'ils soient liés à ces documents. Les unités de stock vous permettent de différencier des informations relatives à un article pour un emplacement donné, comme un entrepôt ou un centre de distribution, ou une variante donnée, comme plusieurs numéros de tablette et plusieurs informations de réapprovisionnement, pour un même article.  
 
-## Pour configurer une unité de stock  
+## <a name="to-set-up-a-stockkeeping-unit"></a>Pour configurer une unité de stock  
 
 1.  Choisissez l'icône ![Page ou rapport pour la recherche](media/ui-search/search_small.png "icône Page ou rapport pour la recherche"), entrez **Unités de stock**, puis sélectionnez le lien associé.  
 2.  Sélectionnez l'action **Nouveau**.  
@@ -36,7 +36,7 @@ Pour créer plusieurs points de stock pour un article, utilisez le traitement pa
 > [!NOTE]  
 >  Les informations de la fiche **Point de stock** sont prioritaires par rapport à celles de la fiche **Article**.  
 
-## Voir aussi  
+## <a name="see-also"></a>Voir aussi  
 [Procédure : enregistrer de nouveaux articles](inventory-how-register-new-items.md)  
 [Configuration de la gestion des entrepôts](warehouse-setup-warehouse.md)  
 [Gestion d'entrepôt](warehouse-manage-warehouse.md)  

@@ -3,7 +3,7 @@ title: "Gestion des coûts inventaire et des coûts de fabrication"
 description: "Bien que la comptabilité analytique soit constituée de processus ne nécessitant pas d'interaction utilisateur, telle que l'affectation d'écritures et l'ajustement automatique des coûts, un certain nombre de champs, fenêtres et rapports sont destinés aux utilisateurs qui gèrent directement ou indirectement le coût des articles ou opérations."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

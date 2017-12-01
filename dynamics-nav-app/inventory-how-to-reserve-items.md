@@ -3,7 +3,7 @@ title: "Procédure : réserver des articles"
 description: "Vous pouvez réserver des articles pour les documents de vente, les bons de commande et les bons de production. Vous pouvez réserver des articles en inventaire ou entrants sur les lignes document ouvertes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

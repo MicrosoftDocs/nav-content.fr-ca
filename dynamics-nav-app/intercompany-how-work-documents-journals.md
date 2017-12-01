@@ -3,7 +3,7 @@ title: Reporter des documents et journaux intercompagnies
 description: Utiliser des documents intercompagnies pour reporter des transactions avec vos partenaires intercompagnies.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

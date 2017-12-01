@@ -3,7 +3,7 @@ title: "Rupture de charge automatique avec prélèvement et rangement dirigé"
 description: "Pour les emplacements qui utilisent un prélèvement et un rangement suggérés, vous pouvez diviser une unité de mesure plus grande en unités de mesure plus petites lors de la création d'instructions entrepôt répondant aux exigences de documents sources, de bons de production ou de prélèvements et de rangements internes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

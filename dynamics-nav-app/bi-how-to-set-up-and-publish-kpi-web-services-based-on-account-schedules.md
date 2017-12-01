@@ -3,7 +3,7 @@ title: "Procédure : configurer et publier des services Web KPI sur la base de 
 description: "La fenêtre **Tableau d'analyse - Configuration du service web KPI** vous permet de configurer la manière dont les informations KPI du tableau d'analyse sont affichées et sur quels tableaux d'analyse spécifiques baser les KPI."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

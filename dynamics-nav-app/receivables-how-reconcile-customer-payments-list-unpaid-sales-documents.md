@@ -3,7 +3,7 @@ title: "Affecter des paiements à des documents vente échus"
 description: "Vous affectez les montants payés par les clients avec des documents vente associés et reportez le paiement pour mettre à jour le client, le grand livre et les écritures bancaires."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

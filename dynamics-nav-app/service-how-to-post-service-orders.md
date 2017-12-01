@@ -3,7 +3,7 @@ title: "Procédure : reporter des commandes service"
 description: "Après avoir créé une commande service, fourni toutes les informations et apporté les éventuelles modifications, vous pouvez reporter cette commande. Pour que vous puissiez reporter une commande, celle-ci doit contenir au moins une ligne article de service et une ligne service. Si la commande contient plusieurs lignes service, toutes les lignes sont reportées en même temps."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

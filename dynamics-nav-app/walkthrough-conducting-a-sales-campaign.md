@@ -3,7 +3,7 @@ title: "Procédure pas à pas : mise en place d'une promotion de vente"
 description: "Une promotion désigne tout type d'utilisation impliquant plusieurs contacts. La sélection du public cible de votre promotion représente une étape importante de la configuration. Pour ce faire, dans [!INCLUDE[d365fin](includes/d365fin_md.md)], créez un segment ou un groupe de contacts à l'aide de filtres."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

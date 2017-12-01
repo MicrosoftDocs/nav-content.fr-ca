@@ -3,7 +3,7 @@ title: "Aperçu des rapports permettant de préparer les relevés de fermeture"
 description: "Fournit un aperçu des rapports que vous pouvez utiliser pour rassembler des informations pour préparer les états de fermeture de votre compagnie à la fin de l'exercice financier."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

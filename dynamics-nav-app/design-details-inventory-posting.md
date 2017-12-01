@@ -3,7 +3,7 @@ title: "Détails de conception - Report inventaire"
 description: "Chaque transaction inventaire, par exemple une réception achat ou une livraison vente, reporte deux écritures de différents types."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Enregistrer les frais ou les revenus directement dans le grand livre
 description: "Pour les activités économiques qui ne sont pas représentées par un document, comme de plus petits frais ou règlements, vous pouvez créer les transactions associées en reportant des lignes de journal dans la fenêtre Journal général."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

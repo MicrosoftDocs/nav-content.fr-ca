@@ -3,7 +3,7 @@ title: "Aperçu des tâches pour fermer les registres"
 description: "En savoir plus sur le processus de fermeture des registres d'un exercice financier ou d'une période fiscale, et ce qui a lieu après la fermeture, à la fin d'un exercice."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

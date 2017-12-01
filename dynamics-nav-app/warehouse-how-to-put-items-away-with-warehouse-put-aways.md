@@ -3,7 +3,7 @@ title: "Comment ranger des articles avec le rangement entrepôt"
 description: "Lorsque votre emplacement est configuré pour exiger un traitement des rangements entrepôt et un traitement des réceptions entrepôt, vous pouvez utiliser la fonction documents rangement entrepôt pour contrôler le rangement des articles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

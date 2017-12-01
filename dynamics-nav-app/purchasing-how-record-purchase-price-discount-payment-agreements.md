@@ -3,7 +3,7 @@ title: "Configurer des tarifs et des escomptes spéciaux et secondaires pour les
 description: "Vous pouvez définir différentes ententes en termes de prix et d'escomptes et les affecter aux documents achat pour les fournisseurs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "Configurer des prix de vente et des escomptes spéciaux pour les clients"
 description: "Décrit comment définir les ententes secondaires de tarifs et d'escompte à affecter aux documents vente lors de la vente à différents clients."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

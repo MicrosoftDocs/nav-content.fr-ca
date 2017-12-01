@@ -3,7 +3,7 @@ title: "Aperçu des tâches permettant de gérer la comptabilité fournisseur"
 description: "Décrit les tâches permettant de gérer les comptes fournisseur, par exemple, le paiement des créditeurs ou l'affectation de paiements sortants aux écritures pour fermer des factures ou des notes de crédit."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

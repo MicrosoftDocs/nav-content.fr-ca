@@ -3,7 +3,7 @@ title: "Procédure : afficher la charge des ateliers et des unités de producti
 description: "Sur la fiche **Atelier**, vous pouvez afficher la charge des ateliers en tant que résultat des bons de production libérés."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

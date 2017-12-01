@@ -2,7 +2,7 @@
 title: "Procédure : imprimer des rapports de dépannage"
 description: "Les rapports de dépannage suivants sont disponibles pour aider les partenaires certifiés Microsoft à résoudre les problèmes."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

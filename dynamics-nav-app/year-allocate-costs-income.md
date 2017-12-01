@@ -3,7 +3,7 @@ title: "Aperçu des tâches de ventilation des coûts et des revenus"
 description: "Décrit les tâches pour affecter une écriture dans un journal général dans différents comptes lorsque vous reportez le journal."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

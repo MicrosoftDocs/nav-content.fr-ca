@@ -3,7 +3,7 @@ title: "Procédure : déplacer les composantes vers une zone opérations dans l
 description: "Si des opérations de traitement d'articles se produisent dans votre entrepôt, vous pouvez être amené à déplacer des articles entre différents zones internes pour satisfaire aux documents origine internes, tels que la production, l'assemblage ou les commandes service dans l'emplacement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

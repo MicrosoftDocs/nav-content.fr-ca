@@ -3,7 +3,7 @@ title: Configuration de gestion de prix
 description: "Cette rubrique décrit comment affecter le meilleur prix à des commandes service, configurer des ententes personnalisés pour le prix des services pour des clients, améliorer le rendement des employés d'entretien et accélérer le processus de facturation."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

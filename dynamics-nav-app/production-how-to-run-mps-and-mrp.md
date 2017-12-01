@@ -3,7 +3,7 @@ title: "Procédure : exécuter une planification complète et un calcul PDP et 
 description: "Les termes « exécution de la feuille planification » ou « exécution d'un calcul MRP » font référence au calcul du calendrier de production principal et aux réquisitions de matériel sur la base de la demande réelle et prévue. Le système de planification peut calculer le calendrier de planification principal (MPS, Master Planning Schedule) ou la planification des besoins matière (MRP, Material Requirements Planning) à la demande, ou calculer les deux simultanément."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : planifier les O.F. projets"
 description: "Cette tâche de planification est lancée à partir d'un document de vente et utilise la fenêtre **Planification document de vente**. Une fois que vous avez créé un bon de production projet, vous pouvez le planifier davantage à l'aide de la fenêtre **Planification de commande**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

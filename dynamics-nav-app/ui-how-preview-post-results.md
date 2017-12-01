@@ -3,7 +3,7 @@ title: "Afficher un aperçu des écritures avant de reporter un document ou un j
 description: "Vous pouvez vérifier que les écritures des documents et des journaux sont correctes avant de les reporter dans le grand livre."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

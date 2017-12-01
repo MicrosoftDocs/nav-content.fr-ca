@@ -3,7 +3,7 @@ title: "Détails de conception - Rester sous le niveau de dépassement de capa
 description: "Lors de l'utilisation de Qté maximum et Qté fixe de commande, le système de planification se concentre sur l'inventaire prévisionnel dans la plage de temps donnée uniquement. Cela signifie que le système de planification peut vous proposer l'approvisionnement superflu lorsqu'une demande négative ou des changements d'approvisionnement positifs se produisent en dehors de la plage de temps donnée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

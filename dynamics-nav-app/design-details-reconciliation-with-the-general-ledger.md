@@ -3,7 +3,7 @@ title: "Détails de conception - Rapprochement avec le grand livre"
 description: "Cette rubrique décrit le rapprochement avec le grand livre lorsque vous reportez des transactions inventaire, telles que des livraisons vente, des sorties de production ou des ajustements négatifs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

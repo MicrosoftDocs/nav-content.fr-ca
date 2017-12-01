@@ -3,7 +3,7 @@ title: "Configurer la génération de rapports de pannes dans Gestion des servic
 description: "Découvrez comment configurer les processus de génération de rapports de pannes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

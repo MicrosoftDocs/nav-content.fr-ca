@@ -3,7 +3,7 @@ title: "Paramétrer les employés et modifier les informations"
 description: "Décrit comment enregistrer du nouveau personnel ou modifier les informations concernant le personnel existant."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

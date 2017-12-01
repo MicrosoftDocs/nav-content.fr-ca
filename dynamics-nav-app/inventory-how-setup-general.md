@@ -3,7 +3,7 @@ title: "Définir la configuration générale de l'inventaire"
 description: "Décrit comment définir la configuration générale de votre inventaire, telles que la série de numéros et les emplacements, de façon à pouvoir, par exemple, gérer votre entrepôt et votre inventaire."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

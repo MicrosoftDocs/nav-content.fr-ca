@@ -3,7 +3,7 @@ title: "Fermer les comptes état des résultats"
 description: "À la fermeture de l'exercice, vous devez exécuter le traitement en lot Fermer l'état des résultats afin de refermer les périodes comptables de l'exercice financier."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

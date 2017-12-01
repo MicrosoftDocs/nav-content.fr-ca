@@ -3,7 +3,7 @@ title: Configurer les immobilisations grand livre
 description: "Avant d'utiliser des immobilisations, vous devez paramétrer des comptes GL par défaut, des groupes de report, des clés d'affectation, des modèles et lots de journal, ainsi que des codes de classe."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

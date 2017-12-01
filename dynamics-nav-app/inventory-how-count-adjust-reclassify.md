@@ -3,7 +3,7 @@ title: Inventaire, ajustement et reclassement de l'inventaire
 description: "Décrit la manière d'effectuer un inventaire physique, faire des ajustements négatifs ou positifs, et comment modifier des informations, telles que l'emplacement ou le numéro de lot, sur des écritures article ou des écritures entrepôt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure pas à pas : gestion des projets"
 description: "Cette procédure pas-à-pas présente les fonctionnalités de gestion de projets dans les projets. Les projets vous permettent de programmer l'utilisation des ressources de votre compagnie et de suivre les différents objet de coûts à l'utilisation des ressources sur un projet spécifique. Les projets impliquent la consommation d'heures employé, d'heures machines, d'articles dans l'inventaire et d'autres types d'utilisation pouvant faire l'objet d'un suivi au fur et à mesure de l'avancée du projet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
