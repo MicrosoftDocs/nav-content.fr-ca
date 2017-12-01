@@ -3,7 +3,7 @@ title: "Aperçu de la ligne report de journal général"
 description: "Cette rubrique décrit les modifications du Codeunit 12, **Journal général-Ligne report**, qui est l'objet d'application majeur pour le report dans le grand livre et le seul emplacement pour insérer des écritures GL, TVA, client et fournisseur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, general ledger, post
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: acec7686de26d47011a0637ab0b3bf70c8559b71
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b7280db4930ae707baa842d9d29871cafcb793bc
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="general-journal-post-line-overview"></a><span data-ttu-id="706c5-103">Aperçu de la ligne report de journal général</span><span class="sxs-lookup"><span data-stu-id="706c5-103">General Journal Post Line Overview</span></span>

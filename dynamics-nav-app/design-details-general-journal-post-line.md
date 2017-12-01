@@ -3,7 +3,7 @@ title: "Détails de conception - Ligne report de journal général"
 description: "Cette rubrique présente les concepts et principes qui sont utilisés pour reconcevoir la fonction de ligne de report de journal général dans [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, general journal, posting, codeunit 12
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f6fd873a34e40b7f795c8f8f687bf3f198f437b5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: eee659ced471969fa0c5a4e453a0fec63d080204
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-general-journal-post-line"></a><span data-ttu-id="ab8c2-103">Détails de conception : Ligne report de journal général</span><span class="sxs-lookup"><span data-stu-id="ab8c2-103">Design Details: General Journal Post Line</span></span>

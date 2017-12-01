@@ -2,7 +2,7 @@
 title: "Procédure : imprimer des rapports de dépannage"
 description: "Les rapports de dépannage suivants sont disponibles pour aider les partenaires certifiés Microsoft à résoudre les problèmes."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/11/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: cb4d007ce0bac06ccb6c899bc6b90fce90dd6bd2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 208408bbfb2b294807253c42f118c2652bdf4674
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-troubleshooting-reports"></a><span data-ttu-id="9a868-103">Procédure : imprimer des rapports de dépannage</span><span class="sxs-lookup"><span data-stu-id="9a868-103">How to: Print Troubleshooting Reports</span></span>

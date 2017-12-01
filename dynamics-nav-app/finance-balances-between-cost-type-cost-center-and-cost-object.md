@@ -3,7 +3,7 @@ title: "Soldes entre le type de coût, un centre de coûts et les objets de coû
 description: "Lorsque vous configurez la comptabilité analytique, vous devez vous assurer que toutes les écritures sont affectées à un type de coût, ainsi qu'à un centre de coûts ou un objet de coûts. En d'autres termes, un type de coût, un code de centre de coûts ou un objet de coûts doivent être affectés à chaque écriture de coûts. Cette règle garantit que chaque écriture de coûts s'affiche dans les centres de coûts ou les coûts associés, mais jamais dans les deux à la fois."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 46b480caf8195b7cf1cad0f37780ccaccb8ffb6f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 323fffa5d63fa682a378928733680917b44d9188
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="balances-between-cost-type-cost-center-and-cost-object"></a><span data-ttu-id="e8e7b-105">Soldes entre le type de coût, un centre de coûts et les objets de coûts</span><span class="sxs-lookup"><span data-stu-id="e8e7b-105">Balances Between Cost Type, Cost Center, and Cost Object</span></span>

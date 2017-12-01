@@ -3,7 +3,7 @@ title: "Procédure : configuration d'un diagramme des types de coûts"
 description: "Le plan des types de coûts a la même fonction que le plan des comptes dans le grand livre."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: cost types, general ledger, accounts
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 104b057639090bd9797f06ebcc6b573899b9f87c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9715ba8a2fc4669a96a45d0576599c898c574bec
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-cost-types"></a><span data-ttu-id="bfe89-103">Procédure : configuration des types de coûts</span><span class="sxs-lookup"><span data-stu-id="bfe89-103">How to: Set Up Cost Types</span></span>

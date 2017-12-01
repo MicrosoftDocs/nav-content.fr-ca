@@ -2,7 +2,7 @@
 title: "Procédure : configurer les escomptes de paiement de vente et la taxe de vente non réalisée"
 description: "Vous pouvez utiliser la fenêtre **Configuration du grand livre**pour configurer la taxe de vente non réalisée. Vous pouvez également configurer des montants de taxe de correction maximum de manière à limiter les montants de correction de taxe qui sont entrés pour les ventes et les achats. Cela vous permet de remplacer la taxe calculée lorsqu'il existe des différences d'arrondissement entre ce qui est calculé sur le bon de commande et ce qui est calculé sur la facture achat du fournisseur."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/11/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 88c562d1d730e1f13b6fe36c91cca9db16dfc592
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fc32d77fb6f1b94436826f0a0f9f1852089ce04d
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts"></a><span data-ttu-id="f4a89-105">Procédure : configurer les escomptes de paiement de vente et la taxe de vente non réalisée</span><span class="sxs-lookup"><span data-stu-id="f4a89-105">How to: Set Up Unrealized Sales Tax and Sales Payment Discounts</span></span>

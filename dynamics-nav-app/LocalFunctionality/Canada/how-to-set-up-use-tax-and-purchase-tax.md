@@ -2,7 +2,7 @@
 title: "Procédure : configurer la taxe de service et la taxe d'achat"
 description: "La taxe de vente inclut les taxes payées par les compagnies pour utiliser des articles"
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 171cb65da350901a149c766f578283869c1c0d10
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 34085643066c44bff17763828d1782864fa24355
 ms.contentlocale: fr-ca
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-use-tax-and-purchase-tax"></a><span data-ttu-id="af28c-103">Procédure : configurer la taxe de service et la taxe d'achat</span><span class="sxs-lookup"><span data-stu-id="af28c-103">How to: Set Up Use Tax and Purchase Tax</span></span>
